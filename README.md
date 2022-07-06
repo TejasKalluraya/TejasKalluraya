@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TejasKalluraya a Computer Science Engineering Student🎓 from PES University 🏛, Bengaluru
-- 🏫 I am parallely pursuing an Online B.Sc Degree in Data Science from IIT Madras
+- 🏫 I am parallelly pursuing an Online B.Sc Degree in Data Science from IIT Madras
 
 - 👀 I’m interested in #Machine Learning 💭, #Web Development 💻 and #App Development 🛠...
 
