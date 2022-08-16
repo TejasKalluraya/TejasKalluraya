@@ -16,7 +16,7 @@
 
 📫 How to reach me: www.linkedin.com/in/tejaskalluraya ...
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TejasKalluraya&theme=radical)](https://git.io/streak-stats)
+
 
 <!---
 TejasKalluraya/TejasKalluraya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
